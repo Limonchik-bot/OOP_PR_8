@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\тр\тр\bin\Debug\тр.exe.config
+C:\Users\User\source\repos\тр\тр\bin\Debug\тр.exe
+C:\Users\User\source\repos\тр\тр\bin\Debug\тр.pdb
+C:\Users\User\source\repos\тр\тр\obj\Debug\тр.csprojAssemblyReference.cache
+C:\Users\User\source\repos\тр\тр\obj\Debug\тр.Form1.resources
+C:\Users\User\source\repos\тр\тр\obj\Debug\тр.Properties.Resources.resources
+C:\Users\User\source\repos\тр\тр\obj\Debug\тр.csproj.GenerateResource.cache
+C:\Users\User\source\repos\тр\тр\obj\Debug\тр.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\тр\тр\obj\Debug\тр.exe
+C:\Users\User\source\repos\тр\тр\obj\Debug\тр.pdb
+C:\Visual Studio\OOP_PR_8\тр\bin\Debug\тр.exe.config
+C:\Visual Studio\OOP_PR_8\тр\bin\Debug\тр.exe
+C:\Visual Studio\OOP_PR_8\тр\bin\Debug\тр.pdb
+C:\Visual Studio\OOP_PR_8\тр\obj\Debug\тр.csprojAssemblyReference.cache
+C:\Visual Studio\OOP_PR_8\тр\obj\Debug\тр.Form1.resources
+C:\Visual Studio\OOP_PR_8\тр\obj\Debug\тр.Properties.Resources.resources
+C:\Visual Studio\OOP_PR_8\тр\obj\Debug\тр.csproj.GenerateResource.cache
+C:\Visual Studio\OOP_PR_8\тр\obj\Debug\тр.csproj.CoreCompileInputs.cache
+C:\Visual Studio\OOP_PR_8\тр\obj\Debug\тр.exe
+C:\Visual Studio\OOP_PR_8\тр\obj\Debug\тр.pdb
